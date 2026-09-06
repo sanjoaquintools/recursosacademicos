@@ -32,7 +32,7 @@ var LINKS_CONFIG = [
   },
   {
     title: "Prácticas",
-    url: "https://portalinsc.duoc.cl/webdynpro/resources/duoc.com/horario/PrintSchedule",
+    url: "https://drive.google.com/drive/u/0/folders/1WWDSq5tK2uKeh1S8JEvC3Wbhp_-Jx8wN",
     icon: "carpeta",
   },
   {
