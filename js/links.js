@@ -37,7 +37,7 @@ var LINKS_CONFIG = [
   },
   {
     title: "¿Como hacer una solicitud en linea?",
-    url: "https://inscripciones.duoc.cl/IA/",
+    url: "https://drive.google.com/drive/u/0/folders/1QvOI-VFE3WVGEZucU12tejo7djD85OAG",
     icon: "document",
   },
   {
