@@ -31,9 +31,9 @@ var LINKS_CONFIG = [
     icon: "malla",
   },
   {
-    title: "Prácticas",
-    url: "https://drive.google.com/drive/u/0/folders/1WWDSq5tK2uKeh1S8JEvC3Wbhp_-Jx8wN",
-    icon: "carpeta",
+    title: "Calendario académico",
+    url: "https://drive.google.com/drive/folders/1o3OT5xbcbuIBJsbt502dNLLI2KFFHWHG?usp=drive_link",
+    icon: "horario",
   },
   {
     title: "¿Cómo hacer una solicitud en línea?",
@@ -41,14 +41,14 @@ var LINKS_CONFIG = [
     icon: "document",
   },
   {
-    title: "Calendario académico",
-    url: "https://drive.google.com/drive/folders/1o3OT5xbcbuIBJsbt502dNLLI2KFFHWHG?usp=drive_link",
-    icon: "horario",
-  },
-  {
     title: "Centro de Ayuda",
     url: "https://centroayuda.duoc.cl/hc/es-419",
     icon: "inscripcion",
+  },
+  {
+    title: "Prácticas",
+    url: "https://drive.google.com/drive/u/0/folders/1WWDSq5tK2uKeh1S8JEvC3Wbhp_-Jx8wN",
+    icon: "carpeta",
   },
   {
     title: "Sitio Web DuocUC",
