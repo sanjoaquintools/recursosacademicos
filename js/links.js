@@ -50,6 +50,11 @@ var LINKS_CONFIG = [
     url: "https://drive.google.com/drive/u/0/folders/1WWDSq5tK2uKeh1S8JEvC3Wbhp_-Jx8wN",
     icon: "carpeta",
   },
+  }{
+    title: "Déjanos aquí tu consulta",
+    url: "https://drive.google.com/drive/u/0/folders/1WWDSq5tK2uKeh1S8JEvC3Wbhp_-Jx8wN",
+    icon: "document",
+  },
   {
     title: "Sitio Web DuocUC",
     url: "https://www.duoc.cl/",
