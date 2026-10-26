@@ -52,7 +52,7 @@ var LINKS_CONFIG = [
   },
   {
     title: "Déjanos aquí tu consulta",
-    url: "https://drive.google.com/drive/u/0/folders/1WWDSq5tK2uKeh1S8JEvC3Wbhp_-Jx8wN",
+    url: "https://forms.cloud.microsoft/r/hT01dPMFnd",
     icon: "inscripcion",
   },
   {
